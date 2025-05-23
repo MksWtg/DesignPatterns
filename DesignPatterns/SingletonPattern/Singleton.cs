@@ -25,5 +25,3 @@ public class Singleton
 		return _instance;
 	}
 }
-
-public class Lolz { }
