@@ -9,8 +9,8 @@ public class SingletonTest
 	{
 		// Arrange
 
-		string? result1 = string.Empty;
-		string? result2 = string.Empty;
+		string result1 = string.Empty;
+		string result2 = string.Empty;
 
 		var process1 = new Thread(() =>
 		{
